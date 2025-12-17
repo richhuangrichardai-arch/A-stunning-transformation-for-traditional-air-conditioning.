@@ -50,10 +50,12 @@
 ---
 
 ## 3. 硬體介面詳細定義 (Pin Definitions)
-<img width="1108" height="1477" alt="image" src="https://github.com/user-attachments/assets/1d424bd6-6bc3-44c8-a923-7991ec70c7dc" />
+<img width="480" height="800" alt="image" src="https://github.com/user-attachments/assets/1d424bd6-6bc3-44c8-a923-7991ec70c7dc" />
 本專案接線嚴格參照 Raspberry Pi BCM 編碼，詳細接線表如下：
 
 ### 3.1 Raspberry Pi GPIO 配置表
+<img width="480" height="800" alt="image" src="https://github.com/user-attachments/assets/2066e02c-9508-4ed8-9011-2f4a39d684e2" />
+
 | 實體針腳 (Physical Pin) | BCM 編碼 | 線材顏色 | 連接目標 | 功能描述 |
 | :---: | :---: | :---: | :--- | :--- |
 | **04** | - | 🔴 紅色 | 麵包板 (+) 軌 | 供應繼電器模組 **5V 電源** |
@@ -72,6 +74,13 @@
 | **Relay 3** | **COM** (中) + **NO** (下) | 🟣 紫色 x2 | 遙控器 **[Power]** | High -> 導通 (開關) |
 
 > ⚠️ **注意**：繼電器上的 NC (常閉) 端子請保持懸空，切勿接線。
+
+### 3.2.5搖控器
+<img width="480" height="800" alt="image" src="https://github.com/user-attachments/assets/748fcdc9-8883-4310-9e05-26b34e8369f6" />
+### 3.2.6實體接線圖
+![messageImage_1765982957503](https://github.com/user-attachments/assets/bfd99a1a-3b17-449b-9b1e-e5d9c74a06d3)
+### 3.2.7線路示意圖
+<img width="480" height="800" alt="image" src="https://github.com/user-attachments/assets/b024fde6-e652-4b13-8a98-33170127d39d" />
 
 ---
 
