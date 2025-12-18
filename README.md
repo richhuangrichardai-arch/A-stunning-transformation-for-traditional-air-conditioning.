@@ -78,7 +78,7 @@
 ### 3.2.5搖控器
 <img width="480" height="800" alt="image" src="https://github.com/user-attachments/assets/748fcdc9-8883-4310-9e05-26b34e8369f6" />
 ### 3.2.6實體接線圖
-![messageImage_1765982957503](https://github.com/user-attachments/assets/bfd99a1a-3b17-449b-9b1e-e5d9c74a06d3)
+<img width="683" height="907" alt="image" src="https://github.com/user-attachments/assets/77c2bec9-692e-401e-a73a-c82bea4d53bd" />
 ### 3.2.7線路示意圖
 <img width="480" height="800" alt="image" src="https://github.com/user-attachments/assets/b024fde6-e652-4b13-8a98-33170127d39d" />
 
